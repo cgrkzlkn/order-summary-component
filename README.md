@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [Order Summary Component]()
+- Live Site URL: [Order Summary Component](https://cgrkzlkn.github.io/order-summary-component/)
 
 ## My process
 
@@ -44,9 +44,9 @@ Users should be able to:
 
 - These Chrome Extensions helped me to make the project similiar to the design:
 
-- [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+  - [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
 
-- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff/)
+  - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff/)
 
 ## Author
 
